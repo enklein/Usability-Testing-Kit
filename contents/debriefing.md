@@ -1,6 +1,8 @@
 # Debriefing
 *Read through this guide and add a new page for your notes. You should definitely be taking notes.*
 
+[Go Up a Page](../README.md)
+
 ## Key Takeaways
 The two takeaways from a a successful debriefing session are:
 * A list of the most serious usability problems that participants encountered while using the product or feature

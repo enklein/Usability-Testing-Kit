@@ -12,16 +12,16 @@ Participants are walked through different scenarios relating to a task or featur
 **Consent.** If any screen-, audio-, or video-recording is used, ensure the user's consent to be recorded is documented.
 
 ## Outline: Contents of this kit
-* [Planning Your Usability Testing (Checklist)](planning-your-usability-testing.md)
-* [Tasks & Scenarios](tasks-and-scenarios.md)
-* [Conducting Usability Tests](conducting-usability-tests.md)
+* [Planning Your Usability Testing (Checklist)](contents/planning-your-usability-testing.md)
+* [Tasks & Scenarios](contents/tasks-and-scenarios.md)
+* [Conducting Usability Tests](contents/conducting-usability-tests.md)
     * [Consent to Record (Form)](attachments/consent-form.md)
     * [Script (Template)](attachments/script.md)
-* [Observers](observers.md)
+* [Observers](contents/observers.md)
     * [Instructions for In-Person Observers (Handout)](attachments/instructions-for-in-person-observers.md)
     * [Instructions for Remote Observers (Handout)](attachments/instructions-for-remote-observers.md)
-* [Debriefing](debriefing.md)
-* [Documentation](documentation.md)
+* [Debriefing](contents/debriefing.md)
+* [Documentation](contents/documentation.md)
 
 ---
 
@@ -46,4 +46,6 @@ Participants are walked through different scenarios relating to a task or featur
 
 ### Version History
 
-**v1.0**: Initial release.
+**v1.0.1**: Formatting fixes.
+
+**v1.0.0**: Initial release.

@@ -1,6 +1,8 @@
 # Observers
 Have observers; they're critical to the success of a usability testing session. These are the people helping take notes and come up with additional questions.
 
+[Go Up a Page](../README.md)
+
 ## Observers / Participants
 * If scope allows for only one, they can be in-room.
 * If you have multiple observers, choose a leader and set them all up in another room with the receiving end of screen-share software.

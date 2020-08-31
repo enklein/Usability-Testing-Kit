@@ -1,6 +1,8 @@
 # Conducting Usability Tests
 Review this walkthrough before conducting usability tests. Ensure you have all handouts and your script ready before testing. The script has tasks written in to help guide you.
 
+[Go Up a Page](../README.md)
+
 ## Before Each Test
 Ready your screen recording and sharing software and ready the material for the participant.
 
@@ -40,7 +42,7 @@ Document anything specific you might want to ask them about to go over after the
 
 ## Wrapping Up
 * Thank the participant
-* Ask if they have any questions (follow the Fellow security policy when answering)
+* Ask if they have any questions (follow the organization's security policy when answering)
 * Give them the incentive if applicable or remind them it will be sent to them
 
 ### Preparing for the Next Test

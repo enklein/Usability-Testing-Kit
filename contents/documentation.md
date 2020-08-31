@@ -1,4 +1,6 @@
 # Documentation
+[Go Up a Page](../README.md)
+
 *Adapt this template to your needs, following these points:*
 * Be concise.
 * Bullet points > paragraphs.
