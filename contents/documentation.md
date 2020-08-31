@@ -16,21 +16,29 @@
 
 ## Project Overview
 **Product Tested & Version:**
+
 **Feature(s) Tested:**
+
 **Summary:**
 
 ## Staff & Management
 **Facilitator:**
+
 **Contributors:**
+
 **Observers:**
+
 **Stakeholders:**
 
 ---
 
 ## Usability Issues & Potential Solutions
 *For each, include:*
+
 **Usability Issue:**
+
 **Severity/Priority:**
+
 **Potential Solution, Other Notes:**
 
 ---
@@ -38,4 +46,5 @@
 ## Tasks & Scenarios
 *For each, include:*
 **Task:**
+
 **Scenario:**
