@@ -21,7 +21,7 @@
 
 **Summary:**
 
-## Staff & Management
+### Staff & Management
 **Facilitator:**
 
 **Contributors:**

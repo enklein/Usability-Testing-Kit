@@ -45,8 +45,4 @@ Participants are walked through different scenarios relating to a task or featur
 ---
 
 ### Version History
-**v1.0.2**: Formatting fixes.
-
-**v1.0.1**: Formatting fixes.
-
 **v1.0.0**: Initial release.
