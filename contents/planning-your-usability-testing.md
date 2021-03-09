@@ -29,7 +29,7 @@ Review these steps well in advance of any usability testing for best results.
 ## Test Day
 **Morning, Prior to Testing**
 * [ ] Test that test materials and software are working and ready (and screen sharing works if there are observers)
-* [ ] Turn off or disable anything on the test computer/device that might interrupt the test (do not disturb node, email, calendar reminders, etc.)
+* [ ] Turn off or disable anything on the test computer/device that might interrupt the test (enable do not disturb mode for email, calendar reminders, etc.)
 * [ ] If there are multiple observers (3+) ensure the one asked to lead is ready and prepared, provide all handouts
 
 **Before, During, and After Testing**
