@@ -22,7 +22,7 @@ Review these steps well in advance of any usability testing for best results.
 * [ ] Contact your participants, reminding them about the session, answering any questions about the session, and ensuring their attendance
 * [ ] Revise any scenarios as needed based on stakeholder feedback
 * [ ] Get any usernames/passwords and sample data needed for the test
-* [ ] Make copies of handouts for participants ([Recording Consent Form](consent-form.md), [Scenarios](tasks-and-scenarios.md), NDA if needed)
+* [ ] Make copies of handouts for participants ([Recording Consent Form](../attachments/consent-form.md), [Scenarios](tasks-and-scenarios.md), NDA if needed)
 * [ ] Make copies of handouts for any observers (Instructions for Observers [In-Person](../attachments/instructions-for-in-person-observers.md) or [Remote](../attachments/instructions-for-remote-observers.md), [Scenarios](tasks-and-scenarios.md), copy of your [Script](../attachments/script.md))
 * [ ] Make sure incentives are ready if provided
 
@@ -33,7 +33,7 @@ Review these steps well in advance of any usability testing for best results.
 * [ ] If there are multiple observers (3+) ensure the one asked to lead is ready and prepared, provide all handouts
 
 **Before, During, and After Testing**
-* [ ] Follow the guide to [Conducting the Usability Tests](conducting-usability-tests.md) and walk through your [Script](attachments/script.md).
+* [ ] Follow the guide to [Conducting the Usability Tests](conducting-usability-tests.md) and walk through your [Script](../attachments/script.md).
 
 ## Debriefing
 * [ ] Follow the guide to [Debriefing](debriefing.md) on the Testing Day lunch, take notes, and come up with an actionable list of usability problems that need solving.
