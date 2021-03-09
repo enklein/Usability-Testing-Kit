@@ -6,9 +6,9 @@ Review this walkthrough before conducting usability tests. Ensure you have all h
 ## Before Each Test
 Ready your screen recording and sharing software and ready the material for the participant.
 
-* Start screen sharing, if necessary
-* Reload sample date, if necessary, and prepare the test material to the 'start' step
-* Start the screen recorder
+* Start screen sharing, if necessary.
+* Reload sample date, if necessary, and prepare the test material to the 'start' step.
+* Start the screen recorder.
 
 ## Testing, Script Reading
 Read the script you've prepared to the letter to ensure you cover everything and say it in a way to help reduce the risk of the participant getting the wrong impression about anything. The script reading includes the Consent to Record form
@@ -21,7 +21,7 @@ These questions are important to get the participants comfortable with thinking 
 
 ### Home/Start Screen Tour
 Read the brief script and let them look over the starting/home screen (excluding any initial login).
-* This is to get the more comfortable with thinking out loud while interacting with the product and to gauge how approachable it is.
+* This is to get them more comfortable with thinking out loud while interacting with the product and to gauge how approachable it is.
 * The participant is not allowed to interact with the screen, only scroll.
 * This will also help to see if the nature of the product is clear. Can users figure out what this thing is?
 * This allows you to also gauge how much domain knowledge the user might have as well — how much they might already know about the product and what it's for.
