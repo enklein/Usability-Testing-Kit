@@ -20,7 +20,7 @@ Observer duties include:
 * Attending the debriefing session.
 
 Observers should get copies of:
-* Their instructions, either for In-Person or Remote testing.
+* Their instructions, either for in-person or remote testing.
 * The test script.
 * The scenarios for the tasks that the participants will be doing.
 
