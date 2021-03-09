@@ -6,7 +6,7 @@ Review these steps well in advance of any usability testing for best results.
 ## Advanced Prep
 * [ ] Figure out what will be tested, either the app's main features for a broader test or new features or improvements after a sprint
 * [ ] Create list of [Tasks & Scenarios](tasks-and-scenarios.md)
-* [ ] Update the [Script Template](attachments/script.md) as needed including pre-test interview questions
+* [ ] Update the [Script Template](../attachments/script.md) as needed including pre-test interview questions
 * [ ] Schedule a test day with blocks for at least three participants and a lunch that follows for a debriefing session with observers and stakeholders
     * [ ] Reach out to potential observers and communicate their role in testing
     * [ ] Ensure stakeholders can make the debriefing if at all possible — it is needed to prioritize the usability issues so they become actionable tasks
@@ -23,7 +23,7 @@ Review these steps well in advance of any usability testing for best results.
 * [ ] Revise any scenarios as needed based on stakeholder feedback
 * [ ] Get any usernames/passwords and sample data needed for the test
 * [ ] Make copies of handouts for participants ([Recording Consent Form](consent-form.md), [Scenarios](tasks-and-scenarios.md), NDA if needed)
-* [ ] Make copies of handouts for any observers (Instructions for Observers [In-Person](attachments/instructions-for-in-person-observers.md) or [Remote](attachments/instructions-for-remote-observers.md), [Scenarios](tasks-and-scenarios.md), copy of your [Script](attachments/script.md))
+* [ ] Make copies of handouts for any observers (Instructions for Observers [In-Person](../attachments/instructions-for-in-person-observers.md) or [Remote](../attachments/instructions-for-remote-observers.md), [Scenarios](tasks-and-scenarios.md), copy of your [Script](../attachments/script.md))
 * [ ] Make sure incentives are ready if provided
 
 ## Test Day
