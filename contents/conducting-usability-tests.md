@@ -11,9 +11,9 @@ Ready your screen recording and sharing software and ready the material for the 
 * Start the screen recorder
 
 ## Testing, Script Reading
-Read the script you've prepared to the letter to ensure you cover everything and say it in a way to help reduce the risk of the participant from getting the wrong impression about anything. The script reading includes the Consent to Record form
-* Work from your template, making sure to revise it beforehand so that it is specific to this session
-* Have them sign the consent to record form
+Read the script you've prepared to the letter to ensure you cover everything and say it in a way to help reduce the risk of the participant getting the wrong impression about anything. The script reading includes the Consent to Record form
+* Work from your template, making sure to revise it beforehand so that it is specific to this session.
+* Have them sign the consent to record form.
 
 ### Initial Interview Questions
 These questions are important to get the participants comfortable with thinking aloud, to show them that you're listening, and to get a basic understanding of how tech-savy they might be.
@@ -30,7 +30,7 @@ Read the brief script and let them look over the starting/home screen (excluding
 ### Tasks
 Give the participant each scenario one by one and then read it aloud word for word.
 * Reading it aloud ensures that they don't start ahead without reading the entire thing.
-* Make a note if you have any follow up questions, save them for the follow up segment
+* Make a note if you have any follow up questions, save them for the follow up segment.
 * Try not to interrupt any more than necessary — keep them focused and thinking aloud.
 * Move on as they are ready: If they have completed the task, if they seem miserable, if the time is ticking too long, and if it seems there's nothing else to learn from them and this screen/scenario.
 
@@ -41,25 +41,25 @@ Document anything specific you might want to ask them about to go over after the
 * Ask follow up questions to see if there's anything else they might find useful or that would help them complete the task better.
 
 ## Wrapping Up
-* Thank the participant
-* Ask if they have any questions (follow the organization's security policy when answering)
-* Give them the incentive if applicable or remind them it will be sent to them
+* Thank the participant.
+* Ask if they have any questions (follow the organization's security policy when answering).
+* Give them the incentive if applicable or remind them it will be sent to them.
 
 ### Preparing for the Next Test
 If you reserved an hour for the test, use no more than 50 minutes to give yourself time to prepare for the next test.
-* Make any notes you need to make
-* Reset any of the testing materials as needed
+* Make any notes you need to make.
+* Reset any of the testing materials as needed.
 * Consider any adjustments: If the participant(s) in previous session(s) couldn't complete a task for obvious reasons, you can modify or skip the task for the remaining participants.
 
 ---
 
 ## Pro-Tips for a Successful Usability Test
-* You're trying to get them to externalize their thought process
-* You're trying not to influence them
-* You say the same few things over and over (much like a therapist)
-* You have ethical responsibilities
-* Keep them talking. If they pause for too long, ask what they're thinking. If you don't know what they're thinking when they make a certain face, ask
-* Read all of your scenarios and scripts out loud before putting them in use to catch any errors
-* Get stakeholders and developers and designers and QA and whoever-else-needs-to-see-to-believe involved and observing
-* Advertise, make it easy to attend, make it clear what's in it for them, and maybe provide snacks for those observing in person
+* You're trying to get them to externalize their thought process.
+* You're trying not to influence them.
+* You say the same few things over and over (much like a therapist).
+* You have ethical responsibilities.
+* Keep them talking. If they pause for too long, ask what they're thinking. If you don't know what they're thinking when they make a certain face, ask.
+* Read all of your scenarios and scripts out loud before putting them in use to catch any errors.
+* Get stakeholders and developers and designers and QA and whoever-else-needs-to-see-to-believe involved and observing.
+* Advertise, make it easy to attend, make it clear what's in it for them, and maybe provide snacks for those observing in person.
 * Check out [Steve Krug's "Things a Therapist Would Say"](http://sensible.com/downloads/things-a-therapist-would-say.pdf) for help interacting with participants.
